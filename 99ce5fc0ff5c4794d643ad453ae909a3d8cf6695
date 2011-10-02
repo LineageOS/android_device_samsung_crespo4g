@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAJX///9U\u003d",
+        "filename": "init.herring.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 176
+      },
+      "writtenOn": "2011-10-02T12:44:14Z",
+      "side": 1,
+      "message": "Since blinker is on payapp of Neldar, I suggest you removing this",
+      "revId": "99ce5fc0ff5c4794d643ad453ae909a3d8cf6695",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
