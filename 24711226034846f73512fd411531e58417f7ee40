@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAANn///q4\u003d",
+        "filename": "crespo4g_overlay/frameworks/base/core/res/res/values/config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 176
+      },
+      "writtenOn": "2011-12-14T15:30:35Z",
+      "side": 1,
+      "message": "mantain wimax there since is a 4g device.\n\nwimax,6,6,1,-1,true",
+      "revId": "24711226034846f73512fd411531e58417f7ee40",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAANn///q0\u003d",
+        "filename": "crespo4g_overlay/packages/apps/Mms/res/xml/mms_config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 176
+      },
+      "writtenOn": "2011-12-14T15:30:35Z",
+      "side": 1,
+      "message": "this is true by default, you can remove enableMms",
+      "revId": "24711226034846f73512fd411531e58417f7ee40",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAANn///qw\u003d",
+        "filename": "crespo4g_overlay/packages/apps/Mms/res/xml/mms_config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 176
+      },
+      "writtenOn": "2011-12-14T15:30:35Z",
+      "side": 1,
+      "message": "Already this value by default from defaultSMSMessagesPerThread to maxMessageCountPerThread\n\nrecipientLimit is -1 by default too",
+      "revId": "24711226034846f73512fd411531e58417f7ee40",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAANn///q8\u003d",
+        "filename": "init.herring.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 71,
+      "author": {
+        "id": 176
+      },
+      "writtenOn": "2011-12-14T15:30:35Z",
+      "side": 1,
+      "message": "remove white spaces on this file",
+      "revId": "24711226034846f73512fd411531e58417f7ee40",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
