@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAOn///jI\u003d",
+        "filename": "cm.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1033
+      },
+      "writtenOn": "2011-12-30T09:51:43Z",
+      "side": 1,
+      "message": "I (personally) feel as if we should be using \"Google\" here, as \"Google\" is a proper noun.",
+      "revId": "2ba29687224d9940cbe10753a5a151d5b3765706",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAOn///jE\u003d",
+        "filename": "cm.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 1033
+      },
+      "writtenOn": "2011-12-30T09:51:43Z",
+      "side": 1,
+      "message": "Same here, but with \"Samsung\".",
+      "revId": "2ba29687224d9940cbe10753a5a151d5b3765706",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
